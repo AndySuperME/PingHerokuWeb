@@ -15,5 +15,9 @@
     "heroku",
     "express"
   ],
+   "scripts": [
+    "start": "node server.js"
+  ],
+  "main": "server.js"
   "license": "MIT"
 }

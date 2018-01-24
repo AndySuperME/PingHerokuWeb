@@ -1,0 +1,19 @@
+{
+  "name": "node-pingWeb",
+  "version": "0.1.0",
+  "description": "",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "dateformat": "^3.0.2"
+  },
+  "keywords": [
+    "linebot",
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}

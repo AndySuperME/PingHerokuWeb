@@ -1,35 +1,20 @@
 {
-  "name": "OpenShift-Sample-App",
-  "version": "1.0.0",
-  "description": "OpenShift Sample Application",
-  "keywords": [
-    "OpenShift",
-    "Node.js",
-    "application",
-    "openshift"
-  ],
-  "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
-  },
- 
+  "name": "ping-web",
+  "version": "1.0.1",
+  "description": "pingweb",
   "engines": {
-    "node": ">= 0.6.0",
-    "npm": ">= 1.0.0"
+    "node": "8.9.1"
   },
- 
   "dependencies": {
-     "request": "^2.83.0",
-     "dateformat": "^3.0.2"
+    "request": "^2.83.0",
+    "dateformat": "^3.0.2"
+    
   },
-  
-  "scripts:" {
-    "start": "node server.js"
-  },
-  "devDependencies": {},
-  "bundleDependencies": [],
- 
-  "private": true,
-  "main": "server.js"
+  "keywords": [
+    "linebot",
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
